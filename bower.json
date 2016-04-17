@@ -1,0 +1,44 @@
+{
+  "name": "elliptical-utils-card",
+  "main": "elliptical-utils-card.html",
+  "description": "credit card utility module",
+  "version": "1.0.0",
+  "authors": [
+    "S. Francis"
+  ],
+  "homepage": "https://github.com/ellipticaljs/utils-card",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    ".gitignore",
+    ".npmignore",
+    "gulpfile.js",
+    "lib",
+    "docs",
+    "index.js",
+    "umd.js",
+    "package.json",
+    "demo",
+    "index.html",
+    "build.json",
+    "bundle.json",
+    ".nvmrc",
+    ".eslintrc",
+    "bin",
+    "CHANGELOG.md",
+    "demos",
+    "stylesheets",
+    "_index.scss",
+    "bk"
+  ],
+  "dependencies": {
+    "elliptical-utils": "~2.0.6"
+  },
+  "devDependencies": {
+
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "elliptical-utils-card",
+  "description": "Credit card utility module",
+  "version": "1.0.0",
+  "author": "S. Francis",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ellipticaljs/utils-card.git"
+  },
+  "dependencies": {
+    "elliptical-utils": "git+https://github.com/ellipticaljs/utils.git"
+  },
+  "devDependencies": {
+
+  }
+}
