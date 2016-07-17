@@ -2,7 +2,7 @@
   "name": "elliptical-utils-card",
   "main": "elliptical-utils-card.html",
   "description": "credit card utility module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "authors": [
     "S. Francis"
   ],
@@ -36,7 +36,7 @@
     "bk"
   ],
   "dependencies": {
-    "elliptical-utils": "~2.0.6"
+    "elliptical-utils": "~2.1.0"
   },
   "devDependencies": {
 
